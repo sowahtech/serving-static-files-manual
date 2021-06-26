@@ -1,0 +1,17 @@
+{
+  "name": "serving_static_files_manual_approach",
+  "version": "1.0.0",
+  "description": "serving static files using the manual approach",
+  "main": "index.js",
+  "author": "justice sowah",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
